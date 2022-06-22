@@ -26,7 +26,7 @@ hadr(u)
 \value{
 %%  ~Describe the value returned
 %%  If it is a LIST, use
-  \item{ }{a real value}
+a real value
 %%  \item{comp2 }{Description of 'comp2'}
 %% ...
 

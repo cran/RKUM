@@ -1,4 +1,4 @@
-2fdffecb4b47d344db001956f8d817b6 *DESCRIPTION
+22c76e93fe301e0a4326ef10538427fe *DESCRIPTION
 05e5a734f0565da0950055cb3e11a41e *NAMESPACE
 1744c9dc30a84c72108b52aa876aa4c0 *R/gkm.R
 c9ea4b6fb99a9f369a24337b30c75b67 *R/gm3edc.R
@@ -31,11 +31,11 @@ af1441e366268cdcf0b1f2a6cf924e2a *R/snpfmrimth3D.R
 1f7729e97066726ceab233503f457b27 *man/gm3edc.Rd
 9b98774e72be38c6a44b281def4dd920 *man/gmedc.Rd
 44c7ddec3a15c6682601b8d1e0a6be63 *man/gmi.Rd
-ef85d1d87f8d4233454bb71db3625e3c *man/hadr.Rd
+dcc807518c4eec997f33f519c4b5230d *man/hadr.Rd
 4027025da747b8f36c3ac298b6c8bf59 *man/halfun.Rd
 3cf0d1ff4b9b1a49d802c951640b85f2 *man/halofun.Rd
 89f98e617c2bb9fdec5b2726bb0003ec *man/hudr.Rd
-0b1d3b49088d747f3296402fd3cbc693 *man/hulfun.Rd
+783c042851ac9103ac81da1216b58e8e *man/hulfun.Rd
 f111aa1d09f0829ca997383b1c28635b *man/hulofun.Rd
 a16830ad6b1afc2876c15e81b6d50de4 *man/ibskm.Rd
 cbedf29ee9dc8c2fc966ed4ef6ef213c *man/ifcca.Rd

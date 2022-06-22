@@ -26,7 +26,7 @@ Tuning constants  of the  Huber  fuction is fixed as a   median.
 \value{
 %%  ~Describe the value returned
 %%  If it is a LIST, use
-\item{}{a real number}
+a real number
 %%  \item{comp2 }{Description of 'comp2'}
 %% ...
 }

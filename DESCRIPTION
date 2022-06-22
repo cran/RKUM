@@ -1,7 +1,7 @@
 Package: RKUM
 Type: Package
 Title: Robust Kernel Unsupervised Methods
-Version: 0.1.1
+Version: 0.1.1.1
 Author: Md Ashad Alam
 Maintainer: Md Ashad Alam <malam@tulane.edu>
 Description: Robust  kernel center matrix, robust  kernel cross-covariance operator for kernel unsupervised methods, kernel canonical correlation analysis, 
@@ -9,9 +9,8 @@ Description: Robust  kernel center matrix, robust  kernel cross-covariance opera
    Alam, M. A,  Calhoun, C. D.,  Wang  Y.-P. (2018) <doi:10.1016/j.csda.2018.03.013>.
 License: GPL-3
 Encoding: UTF-8
-LazyData: true
 Imports: stats, graphics
 NeedsCompilation: no
-Packaged: 2019-02-24 01:36:38 UTC; Ashad
+Packaged: 2022-06-22 04:48:39 UTC; hornik
 Repository: CRAN
-Date/Publication: 2019-03-04 16:40:06 UTC
+Date/Publication: 2022-06-22 04:50:17 UTC
